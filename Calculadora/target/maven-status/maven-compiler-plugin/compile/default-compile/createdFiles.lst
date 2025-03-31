@@ -1,0 +1,9 @@
+ifes\edu\br\Application.class
+ifes\edu\br\model\Multiplicacao.class
+ifes\edu\br\model\Operacao.class
+ifes\edu\br\view\Menu.class
+ifes\edu\br\model\Calculadora.class
+ifes\edu\br\model\Subtracao.class
+ifes\edu\br\controller\ControladorCalculadora.class
+ifes\edu\br\model\Soma.class
+ifes\edu\br\model\Divisao.class
